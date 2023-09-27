@@ -42,14 +42,16 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"skibidi toilet for garry's mod 1","desc":"Are you prepared to elevate your Garry's Mod gameplay to new heights of hilarity and surprise? Look no further! Immerse yourself in a world of absurdity and laughter with the Skibidi Toilet for Garry's Mod addon. This incredible mod injects a dose of humor and whimsy into your Garry's Mod adventures, all centered around the quirky Skibidi Toilet.",
+"photo":"https://iili.io/JJbowdJ.webp"},
+  {"title":"skibidi toilet for garry's mod 2","desc":"Experience unbridled chaos as you download the Skibidi Toilet for Garry's Mod addon for free on your mobile device and PC. Bid farewell to dull gaming moments and say hello to the zaniest gaming experience you've ever encountered. This mod breathes fresh excitement into your Garry's Mod sessions, turning every match into a side-splitting comedy.",
+"photo":"https://iili.io/JJboN5v.jpg"},
+  {"title":"skibidi toilet for garry's mod 3","desc":"Skibidi Toilet Animation: Prepare to be amazed and entertained as the Skibidi Toilet springs to life with uproarious animations that will have you bursting into laughter.","photo":"https://iili.io/JJboSst.jpg"},
+  {"title":"skibidi toilet for garry's mod 4","desc":"Challenge the Titans: Take on the titans of the Garry's Mod universe with your trusty Skibidi Toilet. Defeat them in style, the Skibidi way!","photo":"https://iili.io/JJboebp.jpg"},
+  {"title":"skibidi toilet for garry's mod 5","desc":"Endless Entertainment: From never-ending matches to non-stop laughter, Skibidi Toilet for Garry's Mod is your ticket to keeping the gaming party alive and kicking.","photo":"https://iili.io/JJboOeR.jpg"},
+  {"title":"skibidi toilet for garry's mod 6","desc":"Convenient Addon Link: We've made it incredibly easy for you to access the Skibidi Toilet addon. Simply click the provided link, and you're ready for a wild and wacky ride.","photo":"https://iili.io/JJbovzN.jpg"},
+  {"title":"skibidi toilet for garry's mod 7","desc":"Skibidi Shenanigans: With the Skibidi Toilet in action, you'll witness a series of comically absurd antics that will keep you entertained throughout your gameplay. ","https://iili.io/JJbo8XI.jpg"},
+  {"title":"skibidi toilet for garry's mod 8","desc":"From unexpected movements to quirky sound effects, the Skibidi Toilet adds a delightful touch of whimsy to your GMod world.","photo":"https://iili.io/JJboSst.jpg"}
    ]
  
 }
